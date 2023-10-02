@@ -1,0 +1,3 @@
+[submodule "loss-of-plasticity"]
+	path = loss-of-plasticity
+	url = https://github.com/shibhansh/loss-of-plasticity.git

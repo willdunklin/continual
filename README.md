@@ -1,6 +1,8 @@
 # Continual
 
-Continual backprop with PyTorch. Used for adaptive learning.
+Continual backprop with PyTorch. Used for adaptive learning research.
+
+See https://arxiv.org/abs/2108.06325v3 for CBP details.
 
 ## Setup
 
